@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026.05.24
+
+### What Changed
+README project-info URL changed from `https://erikdubois.be` to the canonical
+project site `https://kiroproject.be`. Part of an EDU-wide README URL sweep.
+
+### Files Modified
+- README.md
+
 ## 2026.05.18
 
 ### What Changed
